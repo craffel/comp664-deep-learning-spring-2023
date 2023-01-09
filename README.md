@@ -2,7 +2,7 @@
 
 Instructor: [Colin Raffel](http://colinraffel.com)
 
-TA: TBD
+TA: [Zhen Wei](https://www.cs.unc.edu/~zhenni/)
 
 Term: Spring 2023
 
