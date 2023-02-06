@@ -50,12 +50,12 @@ All readings refer to corresponding sections in [Dive into Deep Learning](http:/
 | Wed, 2/8        | Convolutional neural networks                                  | 7.1-7.5               | H4 due, H5 assigned   |
 | Mon, 2/13       | No class                                                       | —                     |                       |
 | Wed, 2/15       | Batch/layer normalization & residual connections               | 8.5-8.6               | H5 due, H6 assigned   |
-| Mon, 2/20       | Sequences and recurrent neural networks                        | 9.1-9.7               |                       |
-| Wed, 2/22       | Midterm Review                                                 | —                     | H6 due                |
-| Mon, 2/27       | Midterm                                                        | —                     |                       |
-| Wed, 3/1        | Recurrent neural networks 2                                    | 10.1-10.4             | H7 assigned           |
-| Mon, 3/6        | Sequence-to-sequence learning                                  | 10.5-10.8             | H7 due, H8 assigned   |
-| Wed, 3/8        | Attention 1                                                    | 11.1-11.4             |                       |
+| Mon, 2/20       | Midterm Review                                                 | —                     |                       |
+| Wed, 2/22       | Midterm                                                        | —                     |                       |
+| Mon, 2/27       | Sequences and recurrent neural networks                        | 9.1-9.7               |                       |
+| Wed, 3/1        | Recurrent neural networks 2                                    | 10.1-10.4             | H6 due, H7 assigned   |
+| Mon, 3/6        | Sequence-to-sequence learning                                  | 10.5-10.8             |                       |
+| Wed, 3/8        | Attention 1                                                    | 11.1-11.4             | H7 due, H8 assigned   |
 | Mon, 3/13       | No class                                                       | —                     |                       |
 | Wed, 3/15       | No class                                                       | —                     |                       |
 | Mon, 3/20       | Attention 2                                                    | 11.5-11.6             |                       |
