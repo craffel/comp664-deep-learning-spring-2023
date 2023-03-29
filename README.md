@@ -36,41 +36,41 @@ The following schedule is a guess; we may deviate from this schedule somewhat if
 Students should read the associated textbook section/chapters before class.
 All readings refer to corresponding sections in [Dive into Deep Learning](http://d2l.ai).
 
-| Date            | Subject                                                        | Reading               | Homework              |
-| --------------- | -------------------------------------------------------------- | --------------------- | --------------------- |
-| Mon, 1/9        | Class introduction, background, logistics                      | 2.1-2.7 (optional)    |                       |
-| Wed, 1/11       | Linear regression                                              | 3.1-3.5               | H1 assigned           |
-| Mon, 1/16       | No class                                                       | —                     |                       |
-| Wed, 1/18       | Logistic regression                                            | 4.1-4.5               | H1 due, H2 assigned   |
-| Mon, 1/23       | Gradient descent & adaptive gradient methods                   | 12.1-12.6, 12.10      |                       |
-| Wed, 1/25       | Under/overfitting, regularization                              | 3.6-3.7, 5.6          | H2 due, H3 assigned   |
-| Mon, 1/30       | Multilayer perceptrons                                         | 5.1-5.2               |                       |
-| Wed, 2/1        | Backpropagation, numerical stability                           | 5.3-5.4               | H3 due, H4 assigned   |
-| Mon, 2/6        | Automatic differentiation                                      |                       |                       |
-| Wed, 2/8        | Convolutional neural networks                                  | 7.1-7.5               | H4 due, H5 assigned   |
-| Mon, 2/13       | No class                                                       | —                     |                       |
-| Wed, 2/15       | Batch/layer normalization & residual connections               | 8.5-8.6               | H5 due, H6 assigned   |
-| Mon, 2/20       | Midterm Review                                                 | —                     |                       |
-| Wed, 2/22       | Midterm                                                        | —                     |                       |
-| Mon, 2/27       | Sequences and recurrent neural networks                        | 9.1-9.7               |                       |
-| Wed, 3/1        | Recurrent neural networks 2                                    | 10.1-10.4             | H6 due, H7 assigned   |
-| Mon, 3/6        | Sequence-to-sequence learning                                  | 10.5-10.8             |                       |
-| Wed, 3/8        | Attention 1                                                    | 11.1-11.4             | H7 due, H8 assigned   |
-| Mon, 3/13       | No class                                                       | —                     |                       |
-| Wed, 3/15       | No class                                                       | —                     |                       |
-| Mon, 3/20       | Attention 2                                                    | 11.5-11.6             |                       |
-| Wed, 3/22       | The Transformer                                                | 11.7                  | H8 due, H9 assigned   |
-| Mon, 3/27       | Encoder-only Transformers                                      | 15.8-15.10            |                       |
-| Wed, 3/29       | Decoder-only Transformers                                      | 11.9                  | H9 due, H10 assigned  |
-| Mon, 4/3        | Transformers for Vision                                        | 11.8                  |                       |
-| Wed, 4/5        | Word vectors                                                   | 14.1-14.7             | H10 due, H11 assigned |
-| Mon, 4/10       | Transfer learning for NLP                                      | 14.8-14.10, 15.6-15.7 |                       |
-| Wed, 4/12       | Semi-supervised and self-supervised learning                   | —                     | H11 due, H12 assigned |
-| Mon, 4/17       | Deep generative models                                         | 20.1-20.2             |                       |
-| Wed, 4/19       | Deep learning engineering                                      | 13.5-13.6             | H12 due               |
-| Mon, 4/24       | Distribution shift; fairness, accountability, and transparency | 4.7                   |                       |
-| Wed, 4/26       | Final exam review                                              | —                     |                       |
-| Final exam slot | Final exam                                                     | —                     |                       |
+| Date            | Subject                                                        | Reading            | Homework              |
+| --------------- | -------------------------------------------------------------- | ------------------ | --------------------- |
+| Mon, 1/9        | Class introduction, background, logistics                      | 2.1-2.7 (optional) |                       |
+| Wed, 1/11       | Linear regression                                              | 3.1-3.5            | H1 assigned           |
+| Mon, 1/16       | No class                                                       | —                  |                       |
+| Wed, 1/18       | Logistic regression                                            | 4.1-4.5            | H1 due, H2 assigned   |
+| Mon, 1/23       | Gradient descent & adaptive gradient methods                   | 12.1-12.6, 12.10   |                       |
+| Wed, 1/25       | Under/overfitting, regularization                              | 3.6-3.7, 5.6       | H2 due, H3 assigned   |
+| Mon, 1/30       | Multilayer perceptrons                                         | 5.1-5.2            |                       |
+| Wed, 2/1        | Backpropagation, numerical stability                           | 5.3-5.4            | H3 due, H4 assigned   |
+| Mon, 2/6        | Automatic differentiation                                      |                    |                       |
+| Wed, 2/8        | Convolutional neural networks                                  | 7.1-7.5            | H4 due, H5 assigned   |
+| Mon, 2/13       | No class                                                       | —                  |                       |
+| Wed, 2/15       | Batch/layer normalization & residual connections               | 8.5-8.6            | H5 due, H6 assigned   |
+| Mon, 2/20       | Midterm Review                                                 | —                  |                       |
+| Wed, 2/22       | Midterm                                                        | —                  |                       |
+| Mon, 2/27       | Sequences and recurrent neural networks                        | 9.1-9.7            |                       |
+| Wed, 3/1        | Recurrent neural networks 2                                    | 10.1-10.4          | H6 due, H7 assigned   |
+| Mon, 3/6        | Sequence-to-sequence learning                                  | 10.5-10.8          |                       |
+| Wed, 3/8        | Attention 1                                                    | 11.1-11.4          | H7 due, H8 assigned   |
+| Mon, 3/13       | No class                                                       | —                  |                       |
+| Wed, 3/15       | No class                                                       | —                  |                       |
+| Mon, 3/20       | Attention 2                                                    | 11.5-11.6          |                       |
+| Wed, 3/22       | The Transformer                                                | 11.7               | H8 due, H9 assigned   |
+| Mon, 3/27       | Encoder-only Transformers                                      | 15.8-15.10         |                       |
+| Wed, 3/29       | Decoder-only Transformers                                      | 11.9               | H9 due, H10 assigned  |
+| Mon, 4/3        | Transformers for Vision                                        | 11.8               |                       |
+| Wed, 4/5        | Semi-supervised and self-supervised learning                   | —                  | H10 due, H11 assigned |
+| Mon, 4/10       | Flow- and diffusion-based models                               | —                  |                       |
+| Wed, 4/12       | Generative Adversarial Nets and Variational Autoencoders       | 20.1-20.2          | H11 due, H12 assigned |
+| Mon, 4/17       | Deep learning engineering                                      | 13.5-13.6          |                       |
+| Wed, 4/19       | Distribution shift; fairness, accountability, and transparency | 4.7                | H12 due               |
+| Mon, 4/24       | (extra lecture session for make-up)                            | —                  |                       |
+| Wed, 4/26       | Final exam review                                              | —                  |                       |
+| Final exam slot | Final exam                                                     | —                  |                       |
 
 ## Grading
 
