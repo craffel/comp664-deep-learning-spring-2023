@@ -70,7 +70,7 @@ All readings refer to corresponding sections in [Dive into Deep Learning](http:/
 | Wed, 4/19       | Distribution shift; fairness, accountability, and transparency | 4.7                | H12 due               |
 | Mon, 4/24       | (extra lecture session for make-up)                            | —                  |                       |
 | Wed, 4/26       | Final exam review                                              | —                  |                       |
-| Final exam slot | Final exam                                                     | —                  |                       |
+| Tue, 5/9        | Final exam due at 3pm                                          | —                  |                       |
 
 ## Grading
 
